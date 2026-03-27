@@ -1,0 +1,6 @@
+title: Editorial RSS
+description: Leitor RSS pessoal com estética editorial dark
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
